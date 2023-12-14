@@ -1,0 +1,11 @@
+br\com\banco\persistence\dto\AccountDto.class
+br\com\banco\persistence\dto\UserDto.class
+br\com\banco\persistence\model\Account.class
+br\com\banco\persistence\model\User.class
+br\com\banco\rest\UserController.class
+br\com\banco\persistence\dao\UserDao.class
+br\com\banco\services\UserService.class
+br\com\banco\rest\AccountController.class
+br\com\banco\persistence\dto\AccountDetailsDto.class
+br\com\banco\persistence\dao\AccountDao.class
+br\com\banco\services\AccountService.class
